@@ -1,0 +1,1 @@
+BatFramework is a framework designed for batch to make life easier.
